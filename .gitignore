@@ -34,4 +34,5 @@
 
 # Ignorar archivos específicos
 mods/ReplayMod*
+mods/reforgedplaymod*
 mods/worldedit*
