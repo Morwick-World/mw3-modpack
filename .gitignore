@@ -36,3 +36,6 @@
 mods/ReplayMod*
 mods/reforgedplaymod*
 mods/worldedit*
+
+# Temporal por gran tamaño del archivo
+# mods/AmbientSounds_FORGE_*.jar
